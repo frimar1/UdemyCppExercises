@@ -99,7 +99,7 @@ char *to_lower_case(char *text)
 {
 }
 
-std::size_t string_length(char *text)
+std::size_t string_length(const char *text)
 {
 }
 
